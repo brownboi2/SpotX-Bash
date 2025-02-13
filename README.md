@@ -32,7 +32,7 @@
 
 - Run the following command in terminal:
 ```
-bash <(curl -sSL https://spotx-official.github.io/run.sh)
+bash <(curl -sSL https://raw.githubusercontent.com/brownboi2/SpotX-Bash/refs/heads/main/spotx.sh)
 ```
 - By default...
   - all supported experimental features are enabled
